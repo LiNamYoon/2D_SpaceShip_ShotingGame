@@ -1,0 +1,1365 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\89Level2DSpaceShip\Build\2D_SpaceShip_ShotingGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.749678 ms
+EnemyGeneration코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 220c -> priority: 1 
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Index out of bounds.
+  at (wrapper managed-to-native) UnityEngine.Input:INTERNAL_CALL_GetTouch (int,UnityEngine.Touch&)
+  at UnityEngine.Input.GetTouch (Int32 index) [0x00000] in <filename unknown>:0 
+  at CTouchDrogMoveController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+EnemyGeneration코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UnloadTime: 6.845890 ms
+EnemyGeneration4코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.455451 ms (FindLiveObjects: 0.047469 ms CreateObjectMapping: 0.042337 ms MarkObjects: 0.359229 ms  DeleteObjects: 0.005559 ms)
+
+EnemyGeneration1코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+쉴드 시작 : True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+여기요
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+여기요
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+여기요
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 실행중
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+쉴드 끝 : False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+쉴드 시작 : True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration1코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration2코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration3코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration4코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+EnemyGeneration5코루틴 종료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
