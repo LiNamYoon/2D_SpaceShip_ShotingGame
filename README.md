@@ -7,7 +7,7 @@
 
 *이탤릭체*
 
-[유튜ㅇㄴ플레 영ㅏㄴㅍㄴㅍㄴㅍ](https://youtu.be/ITF34vCFlgk)
+[게임 플레이 유튜브 링크](https://youtu.be/ITF34vCFlgk)
 
 > 각 문단의 첫 줄 앞에 >
 
@@ -19,5 +19,5 @@ bjhbjhbh
 - hhhhhh
 
 - aaaaa
-
+유 
   줄의 처음을 Tab으로 시작
