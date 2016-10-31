@@ -7,7 +7,7 @@
 
 *이탤릭체*
 
-[링크명](http://some-url.com)
+[유튜ㅇㄴ플레 영ㅏㄴㅍㄴㅍㄴㅍ](https://youtu.be/ITF34vCFlgk)
 
 > 각 문단의 첫 줄 앞에 >
 
